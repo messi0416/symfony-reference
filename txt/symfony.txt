@@ -1,0 +1,62 @@
+初めて会いましょう。
+PHPの専門開発者です。
+LarevelとSymfony、Wordpressに精通しています。
+MERNスタックの開発も可能です。
+会社で働きたいです。
+先生はその友人をおそらくよく知らないでしょう。
+その友人が私に先生を教えてくれた。
+私のスキルを再確認し、母親の母国のために働きたいです。
+ありがとうございます。
+クラウドワークを使用したことがありますが、古いです。
+アカウントを作成します。
+できれば幸いです。
+
+石田様 申し訳ありません。
+お母さんが病気になって病院に行こうとします。
+ご了承ください。
+申し訳ありません。
+
+C:\Users\Administrator/.ssh/id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC1+o6avhuxPuIxE9TFBt9KC1wwEwZB6xJwEZcmSnVBn3KdLFPnDjT7m/2h5ylqZnZbk/Pq/QlUKCU7GQTlDqm5Wjc0wm9QnDAPGc5oN5Fm43Mji8E41cIRreaRSEbActR0NjloaMmh+Ju8n2S4D/BYPQ5EyP0IX5qXEifrfVTc3IjUEUKA8Ylncu3VIM+w/xKe2G641XGkIUjj/3chaNiTw4p7GtU35g+t2bqAgXhNLRPCW/EQIGvM87ITKyBAB7OL3nFIYmkiQq2pS7p0APw+RycMCjFvWSRjNIjbsXQxsKgGiZTRp33/ISk3CiDXniNArRyGiW8V15Ujm8fZnP0JHYc6EgfqRk9TT4WLn3k8DtYqagbn+ND2zTmOEbHQgkP9e9I5W7FavnZToQRCt8qQVy95L7VEYXjln1+qVFs0PXt+FB1RLCWmzIH0l4wPcKsZ7VNDEikZ39JHSIf5VlrbMM0pYAC9WsxUlEysLceEZkyhvsNqxIa6VJUWfeIZ9wE= administrator@DESKTOP-TAB1PPS
+
+---------------Original Requirement
+平者システムに 作成していただきたい一番最初の アサイについてご案内いたします。
+まずこのフィューションのトップページです。
+この中にいくつかグループがあるんですけど。
+一番サイカーブにグループを作っていただきまして。
+そのグループの中にボタンを こういう形のボタンをひとつ追加してください。
+ボタン名も正直なところ 今も何度もいいです。
+ボタンを作っていただきましたが こういう形でボタンを押すと。
+別画面の別ウィンドが開くようにしていただきまして。
+そして別ウィンドの中に これは別のテーブルなんですけど。
+テーブルを表示するようにしていただきたい。
+そのテーブルっていうのが データーベーソンにあったのがやる。
+ウンテーブルを作っている商品データが入ってるテーブルなんですけど。
+これの全項目を表示するような 項目を作成していただきたいと思っております。
+課題様数も多いデーブルなので。
+こういったページミュージョンにも 教えていただきたいなというふうに考えております。
+周囲の他の機能はちょっと遊びで いろいろくつけていただいてもかもわないんですけど。
+まずはそういったものを作成していただきながら 確認いただきたいところが。
+返す環境の構築方法であったりとか 業務をした日の方法であったりとか。
+各チャットルームの活用法法であったり。
+今回のアサインにそこしたアサインにそこしたアサインに。
+アサインにそったアサインにそったですね。
+セッケートまたテーブルは今回はちょっと セッケーが必要な事の問題はないんですけど。
+いつもリコースののデザインに報告していただいて。
+ここでボーイヨータブのチャッシュしていただくと いうような流れとか。
+だった開発テストでブロいの一緒に流れ。
+こういったものを今回の一番 最初のアサインを通して。
+ご理解いただけたというふうに考えております。
+よろしくお願いします。
+
+----------------work report
+お疲れ様です。
+仕事を終えます。
+1. 作業日時
+- 日付: 2023/09/25
+- 開始時間: 09:00
+- 終了時間: 12:00
+- 実働時間: 06時間00分
+2. 作業内容
+テスト課題遂行しました。
+*

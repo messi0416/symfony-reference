@@ -1,0 +1,31 @@
+Bitvise:
+/home/workuser/working/ne_api
+
+
+/home/workuser/working/ne_api/app/console
+>> php app/console cache:clear --no-warmup
+
+
+https://d19-s.dev.plusnao.co.jp/app_test.php/login
+webシステムログインアカウント パスワード
+	テスト管理者 / plusnao_test
+	テストユーザ / plusnao_test
+
+###########################################reference url##############
+https://d12-s.dev.plusnao.co.jp/app_test.php/MainProducts/list
+232323
+-------------reference path:
+D:\work\sample_project\reference-ne_api\src\AppBundle\Resources\views\MainProducts\list.html.twig
+D:\work\sample_project\reference-ne_api\src\AppBundle\Resources\config\routing.yml
+D:\work\sample_project\reference-ne_api\src\AppBundle\Resources\views\base-admin.html.twig
+D:\work\sample_project\reference-ne_api\src\AppBundle\Resources\views\Default\parts\index_tab_block_functions.html.twig
+
+D:\work\sample_project\reference-ne_api\src\AppBundle\Controller\MainProductsController.php
+D:\work\sample_project\reference-ne_api\src\MiscBundle\Entity\Repository\TbMainproductsRepository.php
+D:\work\sample_project\reference-ne_api\src\AppBundle\Entity\TbMainproducts.php
+-------------to connect database
+D:\work\sample_project\reference-ne_api\src\Plusnao\MainBundle\Controller\VendorController.php
+
+
+namespace Doctrine\Common\Collections;
+function createQueryBuilder(
